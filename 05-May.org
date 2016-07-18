@@ -1,4 +1,5 @@
 * Tasks
-** TODO Need to make some higher level headings for organisation
+** DONE Need to make some higher level headings for organisation
+   CLOSED: [2016-05-24 Tue 16:37]
    [2016-05-18 Wed]
    [[file:~/.emacs.d/org-capture-customs.el][file:~/.emacs.d/org-capture-customs.el]]
