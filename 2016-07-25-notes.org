@@ -1,8 +1,21 @@
-* Tasks
-** TODO Look up MM methods
- <2016-07-25 Mon 09:08>
- - Check out this tweet:
- - https://twitter.com/vnminin/status/757078319510671360
-** TODO 180 seconds of science
- <2016-07-25 Mon 09:09>
- - [[https://www.thinkable.org/vote_competitions/180-seconds-of-science][This]] could be interesting to check out
+#+OPTIONS: toc:nil num:nil tags:nil
+#+OPTIONS: H:4
+#+BEGIN_HTML
+---
+layout: post
+title: Various notes
+description: 
+tags: science
+categories: generic
+comments: true
+---
+#+END_HTML
+
+** Tasks
+*** TODO Look up MM methods
+  <2016-07-25 Mon 09:08>
+  - Check out this tweet:
+  - https://twitter.com/vnminin/status/757078319510671360
+*** TODO 180 seconds of science
+  <2016-07-25 Mon 09:09>
+  - [[https://www.thinkable.org/vote_competitions/180-seconds-of-science][This]] could be interesting to check out
