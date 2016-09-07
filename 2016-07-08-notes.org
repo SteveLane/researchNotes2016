@@ -1,4 +1,17 @@
-* Tasks
-** TODO Check out [[http://www.jonzelner.net/statistics/make/docker/reproducibility/2016/05/31/reproducibility-pt-1/][this link]]
- <2016-07-08 Fri 09:03>
- - This is a series on reproducibility and how docker etc. can be used
+#+OPTIONS: toc:nil num:nil tags:nil
+#+OPTIONS: H:4
+#+BEGIN_HTML
+---
+layout: post
+title: Link on reproducibility
+description: Link on reproducibility
+tags: reproducibility
+categories: generic
+comments: true
+---
+#+END_HTML
+
+** Tasks
+*** TODO Check out [[http://www.jonzelner.net/statistics/make/docker/reproducibility/2016/05/31/reproducibility-pt-1/][this link]]
+  <2016-07-08 Fri 09:03>
+  - This is a series on reproducibility and how docker etc. can be used
