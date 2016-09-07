@@ -1,0 +1,4 @@
+* Readings
+** Efficient generic integration algorithm to determine confidence intervals and p-values for hypothesis testing :confidence:intervals:MCMC:
+ <2016-07-18 Mon 08:55>
+ - [[http://dx.doi.org/10.6084/m9.figshare.1528163][Bartels (2015)]]

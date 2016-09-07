@@ -1,0 +1,22 @@
+* Notes
+** <09:30> Looking at something 				    :testing:
+ - What to look at?
+** <09:34> Look at this now 					    :testing:
+ [2016-05-19 Thu 09:34]
+ <2016-05-19 Thu 09:34>
+ -
+* Tasks
+** DONE Finish editing org-capture custom templates
+   CLOSED: [2016-07-08 Fri 09:32]
+ [2016-05-19 Thu 10:05]
+** DONE Figure out how to add bibliographies to these org files
+   CLOSED: [2016-05-31 Tue 16:34]
+ [2016-05-19 Thu 15:00]
+* Readings
+** Demonstrating freedom from disease using multiple complex data sources: 1: A new methodology based on scenario trees :disease:freedom:
+ <2016-05-19 Thu 14:21>
+ - The idea is a /Stochastic scenario tree/, which from what I can tell, follows /decisions/ through a decision tree, and then multiplies the probabilities out
+   - I'm finding it difficult to see where the stochastic part comes in though, as the authors provide some example calculations, but they're all based on the interior node probabilities being known (i.e. nowhere do I see discussion that these node probabilities are estimated with error)
+   - I think perhaps I can see parallels with Bayesian networks and graphical models in general
+   - I'd be surprised if there wasn't anything else out there
+ - Mentions in S4.3.4 that for small herds, it may be appropriate to assume that one animal is infected, and base calculations on hypergeometric formulae

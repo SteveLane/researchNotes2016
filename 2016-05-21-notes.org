@@ -1,0 +1,4 @@
+* Tasks
+** TODO Check out [[http://juliasilge.com/blog/Beginners-Guide-to-Travis/][Beginner's guide to Travis CI]]
+ <2016-05-21 Sat 11:03>
+ - This looks like it could be a good one to read.

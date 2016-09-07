@@ -1,0 +1,36 @@
+* Readings
+** Towards a unification of unified theories of biodiversity :biodiversity:qaeco:
+ <2016-08-04 Thu 09:13>
+
+#+BEGIN_QUOTE
+McGill, B. J. (2010). Towards a unification of unified theories of biodiversity: Towards a unified unified theory. Ecology Letters, 13(5), 627–642.
+#+END_QUOTE
+
+*** Intro
+
+- paper selected for the QAECO reading group
+- stochastic geometry of biodiversity
+  - what does this mean?
+- little fanfare due to sociological tendencies
+
+*** Review of unified theories
+
+- focus on theories that /reproduce/ patterns of macroecology
+  - specifically, species-area relationships and local species abundance
+
+*** Different mathematical languages
+
+- different spatial areas
+- continuum and MaxEnt models seem as though they would approach the point process models as $A \rightarrow 0$
+- bit pretentious with the pseudo-Latin (!)
+- surely the suggestion of a stochastic geometry fits in with disease context?
+
+*** Minimally sufficient rules for the stochastic geometry of biodiversity
+
+- rule 3: individuals between species can be treated as independent and placed without regard to other species
+  - without having the applied background, how does this work?
+  - competition, predation etc.
+- The null 'rules' seem bogus
+  - they're so obviously incorrect, that any improvement should be easy to accept?
+- surely the strong interactions could be modelled?
+

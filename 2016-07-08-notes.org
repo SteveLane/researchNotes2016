@@ -1,0 +1,4 @@
+* Tasks
+** TODO Check out [[http://www.jonzelner.net/statistics/make/docker/reproducibility/2016/05/31/reproducibility-pt-1/][this link]]
+ <2016-07-08 Fri 09:03>
+ - This is a series on reproducibility and how docker etc. can be used
