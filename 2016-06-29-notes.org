@@ -1,7 +1,20 @@
-* Notes
-** Estimating intervals after expert elicitation     :elicitation:confidence:
- <2016-06-29 Wed 11:17>
- - A simple clipped average is seen to be perform well (Lyon, Wintle and Burgman, 2015)
- - But what about some other way of aggregation?
- - What about minimising difference from implied distributions to the /target/
-   - e.g. by Kullback-Leibler divergence
+#+OPTIONS: toc:nil num:nil tags:nil
+#+OPTIONS: H:4
+#+BEGIN_HTML
+---
+layout: post
+title: Aggregating expert intervals
+description: Thinking about aggregation of intervals after elicitation
+tags: elicitation
+categories: generic
+comments: true
+---
+#+END_HTML
+
+** Notes
+*** Estimating intervals after expert elicitation    :elicitation:confidence:
+  <2016-06-29 Wed 11:17>
+  - A simple clipped average is seen to be perform well (Lyon, Wintle and Burgman, 2015)
+  - But what about some other way of aggregation?
+  - What about minimising difference from implied distributions to the /target/
+    - e.g. by Kullback-Leibler divergence
