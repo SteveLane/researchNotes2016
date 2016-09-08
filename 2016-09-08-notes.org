@@ -1,0 +1,20 @@
+#+OPTIONS: toc:nil num:nil tags:nil
+#+OPTIONS: H:4
+#+BEGIN_HTML
+---
+layout: post
+title: Research notes
+description: Deploying apps
+tags: R
+categories: computing
+comments: true
+---
+#+END_HTML
+
+** Notes
+*** Apps for deployment						   :R:docker:
+  <2016-09-08 Thu 12:37>
+  - I'm wondering whether deploying apps via shiny may be useful?
+    - see, e.g. [[https://github.com/rocker-org][rocker]]
+    - rather than building example spreadsheets
+  - Also of interest may be [[https://powerbi.microsoft.com/en-us/][Power BI]]
