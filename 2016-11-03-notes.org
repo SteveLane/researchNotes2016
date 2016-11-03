@@ -1,0 +1,45 @@
+#+OPTIONS: toc:nil num:nil tags:nil
+#+OPTIONS: H:4
+#+BEGIN_HTML
+---
+layout: post
+title: Docker for reproducibility
+description: Research readings
+tags: R docker reproducibility
+categories: computing
+comments: true
+---
+#+END_HTML
+
+** Readings
+*** An introduction to Docker for reproducible research, with examples from the R environment :R:reproducibility:
+  <2016-11-03 Thu 10:23>
+
+ Boettiger, C. (2014, October 2). An introduction to Docker for reproducible research, with examples from the R environment. arXiv [cs.SE]. Retrieved from http://arxiv.org/abs/1410.0846
+
+ - about using Docker for reproducible projects
+   - specifically with an R focus
+ - reluctance to publish code from analyses a big barrier
+ - even published code has massive issues, summarised as:
+   - dependency hell
+   - imprecise documentation
+   - code rot
+   - barriers to adoption and reuse
+ - VMs can be seen as a block box
+   - dependencies etc. are hidden from users, so no idea how they'll interact
+ - DevOps is this idea of using scripting for dependencies so that software will run
+ - the Dockerfile contains instructions to build up the container
+   - how does this work for say, a paper that has data, analysis scripts and latex?
+   - does the container connect to say, github, download the required stuff, then compile it via other means?
+ - using Docker locally
+   - can start Docker from a working directory to provide a controlled environment for running scripts
+   - could start R from emacs+ess using docker?
+ - Dockerfiles on github or bitbucket are built/tested if connected to Dockerhub as well
+ - Possibly in answer to the earlier question
+   - run multiple containers, each doing their own little job
+   - e.g. database server container and analysis container
+ - Conclusions/recommendations:
+   - use Docker containers from beginning of a project
+   - use base containers
+     - so, include all tools that are normally used across all projects and extend in new containers for particular projects
+
